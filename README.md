@@ -72,4 +72,4 @@ Object Detection · Image Classification · Semantic Segmentation · MiDaS Depth
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashmi-singh-0654871b2/)
 
-*Open to CV Engineer roles — especially UK-based and remote.*
+*Open to remote CV Engineer roles globally.*
