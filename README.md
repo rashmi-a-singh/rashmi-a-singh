@@ -1,6 +1,6 @@
 # Hi, I'm Rashmi 👋
 
-I'm a **Computer Vision Engineer** currently working as a Research Assistant at the
+I'm a **Computer Vision Engineer** currently working as a Computer Vision Consultant at the
 London School of Economics, where I built an end-to-end ML pipeline processing
 **1M+ Google Street View images** across 261 Jakarta neighborhoods.
 
@@ -45,6 +45,26 @@ Object Detection · Image Classification · Semantic Segmentation · MiDaS Depth
 
 ---
 
+### 🔧 Predictive Maintenance for HVAC Systems
+> Binary classification model for industrial failure prediction
+
+- Trained **LightGBM classifier** on multivariate sensor data from NASA CMAPSS dataset
+- Engineered **Remaining Useful Life (RUL) features** to predict equipment failure before it occurs
+- Evaluated with confusion matrix and full classification metrics
+- 👉 [View on GitHub](https://github.com/rashmi-a-singh/HVAC-predictive-maintenance)
+
+---
+
+### ⚡ Predictive Energy Consumption Model
+> End-to-end regression pipeline on 20M+ time-series records
+
+- Engineered data pipeline to clean, merge, and process **20 million+ time-series records** from three sources using Pandas
+- Built **XGBoost regression model** to forecast hourly energy consumption
+- Evaluated using RMSE across multiple time horizons
+- 👉 [View on GitHub](https://github.com/rashmi-a-singh/Energy-Consumption-Prediction)
+
+---
+
 ### 📐 3D Scene Reconstruction & Depth Estimation
 > Stereo vision pipeline using MiDaS and OpenCV
 
@@ -70,6 +90,6 @@ Object Detection · Image Classification · Semantic Segmentation · MiDaS Depth
 ---
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashmi-singh-0654871b2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/rashmi-singh-0654871b2)
 
 *Open to remote CV Engineer roles globally.*
