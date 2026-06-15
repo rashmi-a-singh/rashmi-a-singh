@@ -2,7 +2,7 @@
 
 I'm a **Computer Vision Engineer** currently working as a Computer Vision Consultant at the
 London School of Economics, where I built an end-to-end ML pipeline processing
-**1M+ Google Street View images** across 261 Jakarta neighborhoods.
+**1M+ Street View imagery** across 261 Jakarta neighborhoods.
 
 I specialise in object detection, image classification, transfer learning, and
 large-scale data pipelines. My work sits at the intersection of computer vision
